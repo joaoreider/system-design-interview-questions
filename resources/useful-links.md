@@ -1,0 +1,1 @@
+- set of common designs: https://systemdesignschool.io/primer
