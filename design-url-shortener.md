@@ -1,4 +1,6 @@
 # Designing a URL Shortener
+
+![design-draw](images/draw-us.png)
 ## 1. Clarify Functional Requirements
 <p align="justify"> The point of a url shortener is to be more user friendly. Some guiding questions: </p>
 
